@@ -1,6 +1,6 @@
 <!-- AUTO-GENERATED-CONTENT:START (STARTER) -->
 <h1 align="center">
-  Gatsby and Full Calendar
+  Gatsby and React Full Calendar integration
 </h1>
 
 ## 🚀 Quick start
