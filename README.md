@@ -19,6 +19,7 @@
     Navigate into your new site’s directory and start it up.
 
     ```shell
+    git clone https://github.com/EAdeveloper/Gatsby-React-Full-Celendar.git
     npm install
     cd FullCalendar/
     gatsby develop
@@ -38,7 +39,7 @@ A quick look at the top-level files and directories you'll see in a Gatsby proje
 
     .
     ├── node_modules
-    ├── src
+    ├── src 
     ├── .gitignore
     ├── .prettierrc
     ├── gatsby-browser.js
